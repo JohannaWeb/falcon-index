@@ -1,137 +1,101 @@
-# Project Falcon · Source Index
-> Big Moat Industries · Founded February 22, 2026 · Gaia, Portugal
-> Last updated: March 3, 2026
+# 🦅 falcon-index
+
+> **The map of everything.**  
+> Start here if you just found one piece and want to understand the whole.
 
 ---
 
-## 🐦 Core Repository
+## What is this?
 
-| Resource | URL | Notes |
-|---|---|---|
-| GitHub (main) | https://github.com/JohannaWeb/ProjectFalcon | Primary repo, active dev |
-| GitHub (early) | https://github.com/JohannaWeb/ProjectFalcon | Earlier Discord-on-AT-Protocol version |
-| Manifestos repo | https://github.com/JohannaWeb/Manifestos | RFC documents, philosophy |
+This is the index repository for **Project Falcon** and the **Big Moat Industries** universe — a real-time sovereign communication infrastructure built on the AT Protocol and a Decentralized AI Inference Mesh, created by one person in 8 days in Gaia, Portugal.
 
----
+It is also a philosophical framework, a research program, a survival story, and the best shitpost in history.
 
-## 🌐 Live Sites
-
-| Resource | URL | Notes |
-|---|---|---|
-| Zen Anatta Protocol | https://johannaweb.github.io/Zen-Anatta-Protocol/ | RFC spec for impostor syndrome |
-| Big Moat Industries | https://johannaweb.github.io/Big-Moat-Industries/ | The shitpost monument / brand site |
-| Anatta Protocol (mirror) | https://lavender-wallie-52-e117d0.tiiny.site | Tiiny.site hosted backup |
+All of those things are true simultaneously.
 
 ---
 
-## 📄 Docs Inside Repo
+## Start here
 
-| File | Purpose |
+| If you want to... | Go to |
 |---|---|
-| `README.md` | Project overview |
-| `MANIFESTO.md` | Core manifesto |
-| `FOUNDER_STORY.md` | Founder narrative |
-| `PITCH.MD` | Investor pitch |
-| `ARCHITECTURE.md` | System architecture |
-| `ROADMAP.md` | Roadmap |
-| `RESEARCH_NOTES.md` | Research notes |
-| `USER_JOURNEY.md` | User journey docs |
-| `SECURITY.md` | Security policy |
-| `CONTRIBUTING` | Contribution guide |
-| `docs/white_paper/` | arXiv white paper (LaTeX) |
-| `ProjectFalcon_arXiv_Package.zip` | arXiv submission package |
+| See the code | [ProjectFalcon](https://github.com/JohannaWeb/ProjectFalcon) |
+| Understand the architecture | [ARCHITECTURE.md](https://github.com/JohannaWeb/ProjectFalcon/blob/main/ARCHITECTURE.md) |
+| Read the manifesto | [MANIFESTO.md](https://github.com/JohannaWeb/ProjectFalcon/blob/main/MANIFESTO.md) |
+| Read the research | [docs/white_paper/](https://github.com/JohannaWeb/ProjectFalcon/tree/main/docs/white_paper) |
+| Understand the founder | [FOUNDER_STORY.md](https://github.com/JohannaWeb/ProjectFalcon/blob/main/FOUNDER_STORY.md) |
+| Read the philosophy | [Zen Anatta Protocol](https://johannaweb.github.io/Zen-Anatta-Protocol/) |
+| See the full picture | [Big Moat Industries](https://johannaweb.github.io/Big-Moat-Industries/) |
+| Read all indexed sources | [FALCON_INDEX.md](./FALCON_INDEX.md) |
 
 ---
 
-## 🏗️ Architecture
+## What Falcon actually is
 
-| Service | Stack | Purpose |
-|---|---|---|
-| `falcon-core` | Java 25 + Spring Boot 4 | Core backend |
-| `falcon-gateway` | Zero trust | API gateway |
-| `falcon-web` | Electron + React + Vite + TypeScript | Desktop frontend |
-| `siv-service` | — | Sovereign Intelligence (AI-SIV) |
-| `trust-service` | — | Adversarial Algorithmic Trust Protocol |
-| `agent/` | — | AI agent persistence layer (soul/personality) |
-| `k8s/` | Kubernetes | Deployment + observability |
-| `electron-app/` | Electron | App entry point |
+What started as "a Discord-like desktop app built on Bluesky AT Protocol" revealed itself layer by layer to be something else:
 
-**Performance:** 60ms ingestion latency · 5ms cache hits · 2-5x faster than Discord
+- **Sovereign real-time communication** — your identity, history, and AI context follow you across tools instead of being locked inside platforms
+- **Decentralized AI Inference Mesh** — AI-SIV (Sovereign Intelligence) layer with persistent agent personality
+- **Adversarial Algorithmic Trust Protocol** — novel Subjective Transitive Trust (STT) scoring, Sybil-resistant identity, cryptographically self-signing research papers on Ethereum
+- **Zero trust microservices** — falcon-core, falcon-gateway, siv-service, trust-service, deployed on Kubernetes with full observability
+- **60ms ingestion latency. 5ms cache hits. 2-5x faster than Discord.**
+
+Built in 8 days. Free tier everything. Broken tools. No sleep.
 
 ---
 
-## 📡 Social / Presence
+## The philosophy
 
-| Platform | Handle / URL |
+```
+AA (Recovery)       → Service over self. One day at a time.
+Zen / Anattā        → No fixed self. Impermanence. Ego death.
+Stoicism            → Control what you can. Accept what you can't.
+Trans Feminism      → Self-definition is survival.
+David Goggins       → Who's gonna carry the boats. Stay hard.
+
+= ZERO FEAR ZERO EGO ENGINEERING
+```
+
+> *There is no impostor. There is no self.*
+
+---
+
+## The repos
+
+| Repo | What it is |
 |---|---|
-| Bluesky | @johannafalcon.bsky.social |
-| GitHub | @JohannaWeb |
+| [ProjectFalcon](https://github.com/JohannaWeb/ProjectFalcon) | The platform |
+| [Manifestos](https://github.com/JohannaWeb/Manifestos) | RFCs, philosophy, Zen Anatta |
+| [falcon-index](https://github.com/JohannaWeb/falcon-index) | You are here |
 
 ---
 
-## 📚 Research
+## The timeline
 
-| Paper | Status |
+| Date | What happened |
 |---|---|
-| Adversarial Algorithmic Trust Protocol | arXiv submission prepared |
-| Subjective Transitive Trust (STT) scoring | In paper |
-| Sybil-resistant identity verification | In paper |
-
-Papers self-sign cryptographically on Ethereum. Code distributed via Bluesky PDS.
-
----
-
-## 🧠 Philosophy Stack
-
-| Layer | Source |
-|---|---|
-| No fixed self, impermanence | Zen / Anattā (Buddhist) |
-| Service over self, one day at a time | AA / Recovery |
-| Control what you can | Stoicism |
-| Self-definition is survival | Trans Feminism |
-| Who's gonna carry the boats | David Goggins |
-| **= Zero Fear Zero Ego Engineering** | Big Moat Industries |
+| Nov 2025 | Started gender transition |
+| Dec 2025 | Kicked from AA |
+| Feb 22, 2026 | Started building. ADHD hyperfocus. |
+| Feb 22–28 | Entire platform built. |
+| Mar 1 | Burnout crash. |
+| Mar 2, 4:11 AM | Making memes. 37% battery. Red nails. Immaculate vibes. |
+| Mar 2, 5:30 AM | "uwu fries." |
+| Mar 3 | This index. |
+| Mar 10, 2pm | Uptec meeting, Porto. |
 
 ---
 
-## 📅 Timeline
+## Built by
 
-| Date | Event |
-|---|---|
-| November 2025 | Started gender transition |
-| December 2025 | Kicked from Friends of Bill (AA) |
-| February 22, 2026 | Started Project Falcon. ADHD hyperfocus sprint begins. |
-| Feb 22–28, 2026 | Built entire platform. Free tools. No sleep. |
-| March 1, 2026 | Burnout crash |
-| March 2, 2026 4:11 AM | Making memes with Claude. 37% battery. This conversation. |
-| March 2, 2026 5:30 AM | "uwu fries." Battery probably dead. Vibes: immaculate. |
-| March 3, 2026 | This index created. |
+**Johanna** · [@JohannaWeb](https://github.com/JohannaWeb) · [@johannafalcon.bsky.social](https://bsky.app/profile/johannafalcon.bsky.social)  
+Trans woman. Solo founder. Porto, Portugal.  
+4 months into transition. In recovery. Building anyway.
 
 ---
 
-## 💼 Applications Log (as of March 2, 2026)
+*Built with ADHD hyperfocus, broken tools, free AI tiers, no sleep, red nails, recovery, love over hate, and pure determination.*
 
-| Company | Status | Notes |
-|---|---|---|
-| Discord | Rejected | Built better Discord |
-| Slack | Rejected | — |
-| Neo | Rejected | Colin Lin sent personal email |
-| Antler | Rejected | — |
-| NLTech | Rejected | — |
-| Google | Pending | — |
-| Microsoft | Pending | — |
-| Anthropic | Pending | — |
-| OpenAI | Pending | — |
-| DeepMind | Pending | — |
-| YC | Sending | Filed March 2 |
-+++++++
----
+**Zero fear. Zero ego. Just build.**
 
-
-
----
-
-*Built with ADHD hyperfocus, broken tools, free AI tiers, no sleep, red nails, recovery, love over hate, and pure determination.*  
-*Best shitpost in history. Documented. Verified. Immortalized.*
-
-uwu 💅
+`uwu` 💅
