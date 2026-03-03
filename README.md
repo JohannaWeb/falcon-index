@@ -106,7 +106,6 @@ Papers self-sign cryptographically on Ethereum. Code distributed via Bluesky PDS
 | March 2, 2026 4:11 AM | Making memes with Claude. 37% battery. This conversation. |
 | March 2, 2026 5:30 AM | "uwu fries." Battery probably dead. Vibes: immaculate. |
 | March 3, 2026 | This index created. |
-| March 10, 2026 2:00 PM | **UPTEC meeting** — Porto incubator |
 
 ---
 
@@ -124,19 +123,13 @@ Papers self-sign cryptographically on Ethereum. Code distributed via Bluesky PDS
 | Anthropic | Pending | — |
 | OpenAI | Pending | — |
 | DeepMind | Pending | — |
-| Uptec | Scheduled | March 10, 2pm |
 | YC | Sending | Filed March 2 |
 
 **Strategy:** 100+ applications. Data collection. Playing big tech like a fiddle for fun.  
-**Offer in hand:** €2.7k/month (accepted as floor)
 
 ---
 
-## 📍 Where to Save This
 
-Save this file as `FALCON_INDEX.md` in the **root of your ProjectFalcon repo** — alongside your MANIFESTO, ROADMAP, and FOUNDER_STORY. It belongs there. It's part of the record.
-
-Optionally also add it to your `JohannaWeb/Manifestos` repo if you want it indexed separately from the code.
 
 ---
 
