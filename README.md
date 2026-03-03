@@ -124,9 +124,7 @@ Papers self-sign cryptographically on Ethereum. Code distributed via Bluesky PDS
 | OpenAI | Pending | — |
 | DeepMind | Pending | — |
 | YC | Sending | Filed March 2 |
-
-**Strategy:** 100+ applications. Data collection. Playing big tech like a fiddle for fun.  
-
++++++++
 ---
 
 
