@@ -82,8 +82,6 @@ David Goggins       → Who's gonna carry the boats. Stay hard.
 | Mar 2, 4:11 AM | Making memes. 37% battery. Red nails. Immaculate vibes. |
 | Mar 2, 5:30 AM | "uwu fries." |
 | Mar 3 | This index. |
-| Mar 10, 2pm | Uptec meeting, Porto. |
-
 ---
 
 ## Built by
